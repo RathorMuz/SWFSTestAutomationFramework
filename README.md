@@ -38,8 +38,8 @@ There are four scenarios in the project:
 
 You can run the test using TESTNG.xml file.
 
-
-
+![](/Users/muzammilqamar/Downloads/AllureReportHome.png)
+![](/Users/muzammilqamar/Downloads/AllureReportExecution.png)
 
 ## Contributing
 
