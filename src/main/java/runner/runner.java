@@ -30,6 +30,6 @@ public class runner extends AbstractTestNGCucumberTests {
     public void teardown()
     {
         driver.quit();
-        Allure.step("Close browser");
+        Allure.step("Close the browser");
     }
 }

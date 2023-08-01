@@ -48,7 +48,7 @@ public class loginpage extends setup {
     {
         String mainPage = driver.getCurrentUrl();
         Assert.assertEquals(mainPage,"https://www.saucedemo.com/inventory.html");
-        Allure.step("Check if user is on logged in or not");
+        Allure.step("Verify if user is on logged in or not");
     }
 
     //InvalidLogin Scenario

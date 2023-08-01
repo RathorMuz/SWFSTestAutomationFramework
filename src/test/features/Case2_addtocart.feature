@@ -1,7 +1,7 @@
 Feature: Add a product to cart
 
   Background:
-    Given User is on main page
+    Given User is on the main page
 
   Scenario: Add a product to cart
     When user click on Add to cart button

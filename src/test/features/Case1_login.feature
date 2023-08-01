@@ -1,7 +1,7 @@
 Feature: Login to saucedemo Application
 
   Background:
-    Given User is on login page
+    Given User is on the login page
 
   Scenario: Login with invalid credentials
     When user enter the incorrect username

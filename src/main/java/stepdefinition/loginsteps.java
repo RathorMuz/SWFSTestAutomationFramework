@@ -8,7 +8,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class loginsteps extends setup {
-    @Given("User is on login page")
+    @Given("User is on the login page")
     public void OpenURL()
     {
         new loginpage(driver).checkUserOnLoginPage();
