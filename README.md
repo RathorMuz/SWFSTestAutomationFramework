@@ -1,7 +1,5 @@
 # Automation Framework with Selenium, Java, Maven, TestNG, Cucumber, and Allure Reporting
 
-
-
 ## Description
 
 This project is an automation framework developed using Selenium, Java, Maven, TestNG, Cucumber, and Allure Reporting. The framework is designed to automate web application testing, making it easier for testers and developers to write and maintain test scripts.
@@ -28,45 +26,25 @@ This project is an automation framework developed using Selenium, Java, Maven, T
 
 Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/your-repo.git
-# Prerequisites
+git clone: https://github.com/RathorMuz/SWFSTestAutomationFramework.git
 
-1)Java Development Kit.
+### Execution of tests
 
-2)Maven build tool installed.
+There are four scenarios in the project:
+1) Login using valid credentials.
+2) Login using invalid credentials.
+3) Add a product to cart.
+4) Logout
 
-3)Chrome  browser installed.
-
-# Setup and Configuration
-
-1)Clone or download the repository to your local machine.
-
-2)Install the required dependencies using Maven:
-
-$ cd automationFramework
-
-$ mvn clean install
-
-# Execution of tests
-
-There are two scenarios in the project:
-1) Login using valid and invalid credentials.
-2) Add a product to cart.
-
-You can run the scenarios n browser using the feature files.
-
-If you want to run test using maven:
-
-$ mvn test
-
-# Contributing
-
-Contributions to the automation framework are welcome! If you find any issues, have suggestions, or want to add new features, please create a pull request or submit an issue on the project repository.
+You can run the test using TESTNG.xml file.
 
 
-# Contact
 
-For any inquiries or questions, feel free to contact Waqas Shahnawaz at waqasshahnawaz33@gmail.com.
 
-Happy testing!
+## Contributing
+
+Contributions are welcome! If you find any issues or want to add new features, please submit a pull request.
+Please send your feedback at rathor_muz@live.com
+
+
 
